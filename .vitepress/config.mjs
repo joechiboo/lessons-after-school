@@ -11,18 +11,32 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首頁', link: '/' },
-      { text: '文章', link: '/posts/01-call-help' },
+      {
+        text: '文章',
+        items: [
+          { text: '基本功篇', link: '/posts/basics/' },
+          { text: '主管篇', link: '/posts/manager/' }
+        ]
+      },
       { text: 'GitHub', link: 'https://github.com/joechiboo/lessons-after-school' }
     ],
 
     sidebar: {
       '/posts/': [
         {
-          text: '出社會該學習的事情',
+          text: '基本功篇',
+          link: '/posts/basics/',
           items: [
-            { text: '第一課:Call help 的能力', link: '/posts/01-call-help' },
-            { text: '第二課:歸納彙總再問', link: '/posts/02-summarize-before-asking' },
-            { text: '第三課:抓重點、講重點', link: '/posts/03-get-to-the-point' }
+            { text: '第一課:Call help 的能力', link: '/posts/basics/01-call-help' },
+            { text: '第二課:歸納彙總再問', link: '/posts/basics/02-summarize-before-asking' },
+            { text: '第三課:抓重點、講重點', link: '/posts/basics/03-get-to-the-point' }
+          ]
+        },
+        {
+          text: '主管篇',
+          link: '/posts/manager/',
+          items: [
+            { text: '第一課:交辦清單,還是交出所有權', link: '/posts/manager/01-hand-over-ownership' }
           ]
         }
       ]
