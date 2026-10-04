@@ -17,20 +17,22 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/posts/': [
+      '/posts/basics/': [
         {
           text: '出社會篇',
-          link: '/posts/basics/',
           items: [
+            { text: '系列介紹', link: '/posts/basics/' },
             { text: '第一課:Call help 的能力', link: '/posts/basics/01-call-help' },
             { text: '第二課:歸納彙總再問', link: '/posts/basics/02-summarize-before-asking' },
             { text: '第三課:抓重點、講重點', link: '/posts/basics/03-get-to-the-point' }
           ]
-        },
+        }
+      ],
+      '/posts/manager/': [
         {
           text: '主管篇',
-          link: '/posts/manager/',
           items: [
+            { text: '系列介紹', link: '/posts/manager/' },
             { text: '第一課:交辦清單,還是交出所有權', link: '/posts/manager/01-hand-over-ownership' },
             { text: '第二課:先給,再要求', link: '/posts/manager/02-give-first-then-ask' },
             { text: '第三課:不用自己變強,把強的人放對位置', link: '/posts/manager/03-put-people-in-the-right-place' }
