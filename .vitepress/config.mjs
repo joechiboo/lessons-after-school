@@ -11,13 +11,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首頁', link: '/' },
-      {
-        text: '文章',
-        items: [
-          { text: '基本功篇', link: '/posts/basics/' },
-          { text: '主管篇', link: '/posts/manager/' }
-        ]
-      },
+      { text: '基本功篇', link: '/posts/basics/', activeMatch: '/posts/basics/' },
+      { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
       { text: 'GitHub', link: 'https://github.com/joechiboo/lessons-after-school' }
     ],
 
