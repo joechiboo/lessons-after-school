@@ -33,4 +33,12 @@ features:
     details: 家裡的庶務我照單全收,太太還是覺得被壓榨。因為我做的是執行,「想」的重量一直在她身上。帶團隊也一樣,只交出 E 的授權不是授權。
     link: /posts/manager/01-hand-over-ownership
     linkText: 閱讀
+  - title: 主管篇 · 第二課:先給,再要求
+    details: 龍神奧爾斯帝還沒開工就先替員工的家人布置防護。先把薪水、裝備、家人的事處理好,然後要你拚命。我們這一輩看到的老闆,多半是反過來。
+    link: /posts/manager/02-give-first-then-ask
+    linkText: 閱讀
+  - title: 主管篇 · 第三課:不用自己變強,把強的人放對位置
+    details: 愛麗兒資源歸零時,第一件事不是找資源,是決定剩下四個人各自是什麼。女僕位子上的莉妮亞是災難,聚人位子上的莉妮亞是資產。
+    link: /posts/manager/03-put-people-in-the-right-place
+    linkText: 閱讀
 ---
