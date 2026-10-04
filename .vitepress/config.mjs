@@ -11,7 +11,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首頁', link: '/' },
-      { text: '基本功篇', link: '/posts/basics/', activeMatch: '/posts/basics/' },
+      { text: '出社會篇', link: '/posts/basics/', activeMatch: '/posts/basics/' },
       { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
       { text: 'GitHub', link: 'https://github.com/joechiboo/lessons-after-school' }
     ],
@@ -19,7 +19,7 @@ export default defineConfig({
     sidebar: {
       '/posts/': [
         {
-          text: '基本功篇',
+          text: '出社會篇',
           link: '/posts/basics/',
           items: [
             { text: '第一課:Call help 的能力', link: '/posts/basics/01-call-help' },

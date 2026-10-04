@@ -7,7 +7,7 @@ hero:
   tagline: 從日常生活的小場景出發,對照職場上反覆出現的問題,提煉出能帶走的原則。
   actions:
     - theme: brand
-      text: 基本功篇
+      text: 出社會篇
       link: /posts/basics/
     - theme: alt
       text: 主管篇
@@ -17,15 +17,15 @@ hero:
       link: https://github.com/joechiboo/lessons-after-school
 
 features:
-  - title: 基本功 · 第一課:Call help 的能力
+  - title: 出社會 · 第一課:Call help 的能力
     details: 公園裡媽媽撿不下樹上的外套,孩子卻在旁邊踢球——談求助的三種深度,以及為什麼不開口其實是在拒絕別人。
     link: /posts/basics/01-call-help
     linkText: 閱讀
-  - title: 基本功 · 第二課:歸納彙總再問
+  - title: 出社會 · 第二課:歸納彙總再問
     details: 公司不是學校。差別不在「問不問」,在「怎麼問」。把問題想清楚的過程,往往答案就浮現了一半。
     link: /posts/basics/02-summarize-before-asking
     linkText: 閱讀
-  - title: 基本功 · 第三課:抓重點、講重點
+  - title: 出社會 · 第三課:抓重點、講重點
     details: 早餐店的豆漿要分裝,客人講了一整段來龍去脈,卻沒回答「怎麼分」。職場上的重工,常常是溝通時機的問題。
     link: /posts/basics/03-get-to-the-point
     linkText: 閱讀

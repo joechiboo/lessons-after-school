@@ -6,9 +6,9 @@
 
 ## 文章目錄
 
-### 基本功篇
+### 出社會篇
 
-不管做什麼職位都用得到的東西。
+剛進職場就用得到的東西。
 
 1. [第一課：Call help 的能力 ——公園裡的管理課](posts/basics/01-call-help.md)
 2. [第二課：不要每件事都問，要先歸納彙總](posts/basics/02-summarize-before-asking.md)
@@ -36,6 +36,6 @@
 
 ```
 posts/
-├── basics/     基本功篇
+├── basics/     出社會篇
 └── manager/    主管篇
 ```
