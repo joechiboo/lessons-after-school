@@ -45,4 +45,8 @@ features:
     details: 愛麗兒奪回王位的那場派對,她沒有說服任何人,每個對手的解法都在會前配好。政治手腕不是搞關係,是跟一群沒有義務幫你的人把事情談成。
     link: /posts/manager/04-politics-is-cross-team-communication
     linkText: 閱讀
+  - title: 主管篇 · 番外:先想下一步
+    details: 牙膏剩三分之一就放進購物車,它就從來沒有真的沒了。客戶要的從來不是這一步,是下一步。不算必備,但有的話很加分。
+    link: /posts/manager/ex01-think-one-step-ahead
+    linkText: 閱讀
 ---

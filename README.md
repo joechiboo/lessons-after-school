@@ -23,6 +23,8 @@
 3. [第三課：不用自己變強，把強的人放對位置](posts/manager/03-put-people-in-the-right-place.md)
 4. [第四課：政治手腕，就是跨部門溝通](posts/manager/04-politics-is-cross-team-communication.md)
 
+番外：[先想下一步](posts/manager/ex01-think-one-step-ahead.md)
+
 規劃中的題目見 [posts/manager/index.md](posts/manager/index.md)。
 
 ## 寫作格式

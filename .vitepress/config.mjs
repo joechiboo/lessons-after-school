@@ -38,6 +38,12 @@ export default defineConfig({
             { text: '第三課:不用自己變強,把強的人放對位置', link: '/posts/manager/03-put-people-in-the-right-place' },
             { text: '第四課:政治手腕,就是跨部門溝通', link: '/posts/manager/04-politics-is-cross-team-communication' }
           ]
+        },
+        {
+          text: '番外',
+          items: [
+            { text: '先想下一步', link: '/posts/manager/ex01-think-one-step-ahead' }
+          ]
         }
       ]
     },
