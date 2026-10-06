@@ -35,7 +35,8 @@ export default defineConfig({
             { text: '系列介紹', link: '/posts/manager/' },
             { text: '第一課:交辦清單,還是交出所有權', link: '/posts/manager/01-hand-over-ownership' },
             { text: '第二課:先給,再要求', link: '/posts/manager/02-give-first-then-ask' },
-            { text: '第三課:不用自己變強,把強的人放對位置', link: '/posts/manager/03-put-people-in-the-right-place' }
+            { text: '第三課:不用自己變強,把強的人放對位置', link: '/posts/manager/03-put-people-in-the-right-place' },
+            { text: '第四課:政治手腕,就是跨部門溝通', link: '/posts/manager/04-politics-is-cross-team-communication' }
           ]
         }
       ]

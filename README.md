@@ -21,6 +21,7 @@
 1. [第一課：交辦清單，還是交出所有權](posts/manager/01-hand-over-ownership.md)
 2. [第二課：先給，再要求](posts/manager/02-give-first-then-ask.md)
 3. [第三課：不用自己變強，把強的人放對位置](posts/manager/03-put-people-in-the-right-place.md)
+4. [第四課：政治手腕，就是跨部門溝通](posts/manager/04-politics-is-cross-team-communication.md)
 
 規劃中的題目見 [posts/manager/index.md](posts/manager/index.md)。
 

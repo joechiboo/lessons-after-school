@@ -7,6 +7,7 @@
 1. [第一課:交辦清單,還是交出所有權](./01-hand-over-ownership)
 2. [第二課:先給,再要求](./02-give-first-then-ask)
 3. [第三課:不用自己變強,把強的人放對位置](./03-put-people-in-the-right-place)
+4. [第四課:政治手腕,就是跨部門溝通](./04-politics-is-cross-team-communication)
 
 ## 規劃中
 

@@ -41,4 +41,8 @@ features:
     details: 愛麗兒資源歸零時,第一件事不是找資源,是決定剩下四個人各自是什麼。女僕位子上的莉妮亞是災難,聚人位子上的莉妮亞是資產。
     link: /posts/manager/03-put-people-in-the-right-place
     linkText: 閱讀
+  - title: 主管篇 · 第四課:政治手腕,就是跨部門溝通
+    details: 愛麗兒奪回王位的那場派對,她沒有說服任何人,每個對手的解法都在會前配好。政治手腕不是搞關係,是跟一群沒有義務幫你的人把事情談成。
+    link: /posts/manager/04-politics-is-cross-team-communication
+    linkText: 閱讀
 ---
