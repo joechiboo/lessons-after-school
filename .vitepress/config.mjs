@@ -13,6 +13,8 @@ export default defineConfig({
       { text: '首頁', link: '/' },
       { text: '出社會篇', link: '/posts/basics/', activeMatch: '/posts/basics/' },
       { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
+      { text: '制度篇', link: '/posts/systems/', activeMatch: '/posts/systems/' },
+      { text: '敏捷篇', link: '/posts/agile/', activeMatch: '/posts/agile/' },
       { text: 'GitHub', link: 'https://github.com/joechiboo/lessons-after-school' }
     ],
 
@@ -43,6 +45,24 @@ export default defineConfig({
           text: '番外',
           items: [
             { text: '先想下一步', link: '/posts/manager/ex01-think-one-step-ahead' }
+          ]
+        }
+      ],
+      '/posts/systems/': [
+        {
+          text: '制度篇',
+          items: [
+            { text: '系列介紹', link: '/posts/systems/' },
+            { text: '第一課:加班超過 46 小時,交一頁 A4', link: '/posts/systems/01-overtime-report' }
+          ]
+        }
+      ],
+      '/posts/agile/': [
+        {
+          text: '敏捷篇',
+          items: [
+            { text: '系列介紹', link: '/posts/agile/' },
+            { text: '第一課:四分鐘站會', link: '/posts/agile/01-four-minute-standup' }
           ]
         }
       ]

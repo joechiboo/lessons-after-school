@@ -13,6 +13,12 @@ hero:
       text: 主管篇
       link: /posts/manager/
     - theme: alt
+      text: 制度篇
+      link: /posts/systems/
+    - theme: alt
+      text: 敏捷篇
+      link: /posts/agile/
+    - theme: alt
       text: GitHub
       link: https://github.com/joechiboo/lessons-after-school
 
@@ -48,5 +54,13 @@ features:
   - title: 主管篇 · 番外:先想下一步
     details: 牙膏剩三分之一就放進購物車,它就從來沒有真的沒了。客戶要的從來不是這一步,是下一步。不算必備,但有的話很加分。
     link: /posts/manager/ex01-think-one-step-ahead
+    linkText: 閱讀
+  - title: 制度篇 · 第一課:加班超過 46 小時,交一頁 A4
+    details: 不禁止超時,但讓超時有成本。成本不是扣錢,是「想一遍」。報告的最後一項是資源需求,所以交上來之後,功課是主管的。
+    link: /posts/systems/01-overtime-report
+    linkText: 閱讀
+  - title: 敏捷篇 · 第一課:四分鐘站會
+    details: 十個人,四分鐘,三個問題。會議會變長,幾乎都是因為有人在會上開始解決問題。站會只負責把問題找出來。
+    link: /posts/agile/01-four-minute-standup
     linkText: 閱讀
 ---
