@@ -12,9 +12,9 @@ export default defineConfig({
     nav: [
       { text: '首頁', link: '/' },
       { text: '出社會篇', link: '/posts/basics/', activeMatch: '/posts/basics/' },
-      { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
       { text: '制度篇', link: '/posts/systems/', activeMatch: '/posts/systems/' },
       { text: '敏捷篇', link: '/posts/agile/', activeMatch: '/posts/agile/' },
+      { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
       { text: '關於', link: '/about' }
     ],
 

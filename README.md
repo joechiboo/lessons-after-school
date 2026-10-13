@@ -14,6 +14,18 @@
 2. [第二課：不要每件事都問，要先歸納彙總](posts/basics/02-summarize-before-asking.md)
 3. [第三課：抓重點 ——講重點](posts/basics/03-get-to-the-point.md)
 
+### 制度篇
+
+帶團隊時訂過的規則，以及為什麼這樣訂。不貼條文，只寫設計考量。
+
+1. [第一課：加班超過 46 小時，交一頁 A4](posts/systems/01-overtime-report.md)
+
+### 敏捷篇
+
+把 Scrum 帶進一個十人資訊室的過程。
+
+1. [第一課：四分鐘站會](posts/agile/01-four-minute-standup.md)
+
 ### 主管篇
 
 做主管之後才發現要學的事。素材多半來自[讀書心得](https://github.com/joechiboo/ReadTrack)，但每篇還是要有一個生活場景。
@@ -26,18 +38,6 @@
 番外：[先想下一步](posts/manager/ex01-think-one-step-ahead.md)
 
 規劃中的題目見 [posts/manager/index.md](posts/manager/index.md)。
-
-### 制度篇
-
-帶團隊時訂過的規則，以及為什麼這樣訂。不貼條文，只寫設計考量。
-
-1. [第一課：加班超過 46 小時，交一頁 A4](posts/systems/01-overtime-report.md)
-
-### 敏捷篇
-
-把 Scrum 帶進一個十人資訊室的過程。
-
-1. [第一課：四分鐘站會](posts/agile/01-four-minute-standup.md)
 
 ## 寫作格式
 
@@ -56,9 +56,9 @@ index.md              首頁:四個系列卡片 + 最近更新(新文章記得�
 about.md              關於這個系列
 posts/
 ├── basics/           出社會篇
-├── manager/          主管篇
 ├── systems/          制度篇
-└── agile/            敏捷篇
+├── agile/            敏捷篇
+└── manager/          主管篇
 .vitepress/
 ├── config.mjs        導覽列、側欄(新文章記得加側欄)
 └── theme/custom.css  首頁「最近更新」樣式

@@ -18,10 +18,6 @@ features:
     details: 剛進職場就用得到的東西。求助、發問、講重點,三課。
     link: /posts/basics/
     linkText: 3 篇
-  - title: 主管篇
-    details: 做主管之後才發現要學的事。授權、先給再要求、放對位置、跨部門溝通,四課加一篇番外。
-    link: /posts/manager/
-    linkText: 5 篇
   - title: 制度篇
     details: 帶團隊時訂過的規則,以及為什麼這樣訂。不貼條文,只寫設計考量。
     link: /posts/systems/
@@ -30,6 +26,10 @@ features:
     details: 把 Scrum 帶進一個十人資訊室的過程。做到了什麼,還缺什麼。
     link: /posts/agile/
     linkText: 1 篇
+  - title: 主管篇
+    details: 做主管之後才發現要學的事。授權、先給再要求、放對位置、跨部門溝通,四課加一篇番外。
+    link: /posts/manager/
+    linkText: 5 篇
 ---
 
 <div class="home-recent">
