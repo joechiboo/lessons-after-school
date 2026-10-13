@@ -53,7 +53,11 @@ export default defineConfig({
           text: '制度篇',
           items: [
             { text: '系列介紹', link: '/posts/systems/' },
-            { text: '第一課:加班超過 46 小時,交一頁 A4', link: '/posts/systems/01-overtime-report' }
+            { text: '第一課:加班超過 46 小時,交一頁 A4', link: '/posts/systems/01-overtime-report' },
+            { text: '第二課:彈性上班,但有核心時段', link: '/posts/systems/02-flexible-hours' },
+            { text: '第三課:值班排班,公平要看得見', link: '/posts/systems/03-on-call-rotation' },
+            { text: '第四課:新人的前十天', link: '/posts/systems/04-first-ten-days' },
+            { text: '第五課:金額愈大,要附的說明愈多', link: '/posts/systems/05-petty-cash' }
           ]
         }
       ],
@@ -62,7 +66,16 @@ export default defineConfig({
           text: '敏捷篇',
           items: [
             { text: '系列介紹', link: '/posts/agile/' },
-            { text: '第一課:四分鐘站會', link: '/posts/agile/01-four-minute-standup' }
+            { text: '第一課:四分鐘站會', link: '/posts/agile/01-four-minute-standup' },
+            { text: '第二課:看板,不用再問誰在做什麼', link: '/posts/agile/02-kanban' },
+            { text: '第三課:雙週 Demo,做出來給人看', link: '/posts/agile/03-biweekly-demo' },
+            { text: '第四課:少了 Planning 和 Retro 的團隊', link: '/posts/agile/04-planning-and-retro' }
+          ]
+        },
+        {
+          text: '番外',
+          items: [
+            { text: '一個人的 Scrum', link: '/posts/agile/ex01-scrum-for-side-projects' }
           ]
         }
       ]

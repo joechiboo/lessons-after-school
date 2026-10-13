@@ -13,11 +13,14 @@
 ## 文章
 
 1. [第一課:四分鐘站會](./01-four-minute-standup)
+2. [第二課:看板,不用再問誰在做什麼](./02-kanban)
+3. [第三課:雙週 Demo,做出來給人看](./03-biweekly-demo)
+4. [第四課:少了 Planning 和 Retro 的團隊](./04-planning-and-retro)
+
+## 番外
+
+- [一個人的 Scrum](./ex01-scrum-for-side-projects):Side project 和生活的簡化版
 
 ## 規劃中
 
-- 看板:不用再問「誰在做什麼」
-- 雙週 Demo:定期交付,定期拿回饋
-- 少了 Planning 和 Retro 的團隊:只有日常消化,沒有衝刺感
-- Demo、Retro、Planning 綁在同一個下午
-- Side project 也能用的簡化版 Scrum
+- 跑了三輪 Planning 和 Retro 之後:實際發生了什麼

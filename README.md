@@ -19,12 +19,21 @@
 帶團隊時訂過的規則，以及為什麼這樣訂。不貼條文，只寫設計考量。
 
 1. [第一課：加班超過 46 小時，交一頁 A4](posts/systems/01-overtime-report.md)
+2. [第二課：彈性上班，但有核心時段](posts/systems/02-flexible-hours.md)
+3. [第三課：值班排班，公平要看得見](posts/systems/03-on-call-rotation.md)
+4. [第四課：新人的前十天](posts/systems/04-first-ten-days.md)
+5. [第五課：金額愈大，要附的說明愈多](posts/systems/05-petty-cash.md)
 
 ### 敏捷篇
 
 把 Scrum 帶進一個十人資訊室的過程。
 
 1. [第一課：四分鐘站會](posts/agile/01-four-minute-standup.md)
+2. [第二課：看板，不用再問誰在做什麼](posts/agile/02-kanban.md)
+3. [第三課：雙週 Demo，做出來給人看](posts/agile/03-biweekly-demo.md)
+4. [第四課：少了 Planning 和 Retro 的團隊](posts/agile/04-planning-and-retro.md)
+
+番外：[一個人的 Scrum](posts/agile/ex01-scrum-for-side-projects.md)
 
 ### 主管篇
 
