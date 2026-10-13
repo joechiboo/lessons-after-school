@@ -19,26 +19,26 @@ features:
     link: /posts/basics/
     linkText: 3 篇
   - title: 制度篇
-    details: 帶團隊時訂過的規則,以及為什麼這樣訂。加班、彈性上班、值班、新人、零用金,不貼條文,只寫設計考量。
+    details: 帶團隊時訂過的規則,以及為什麼這樣訂。加班、彈性上班、值班、新人、零用金、分享、檢討,不貼條文,只寫設計考量。
     link: /posts/systems/
-    linkText: 5 篇
+    linkText: 7 篇
   - title: 敏捷篇
     details: 把 Scrum 帶進一個十人資訊室的過程。站會、看板、Demo,以及缺了的 Planning 和 Retro,四課加一篇番外。
     link: /posts/agile/
     linkText: 5 篇
   - title: 主管篇
-    details: 做主管之後才發現要學的事。授權、先給再要求、放對位置、跨部門溝通,四課加一篇番外。
+    details: 做主管之後才發現要學的事。授權、節奏、獎勵、溝通、帶人、放手、數據、撐不住,十五課加一篇番外。
     link: /posts/manager/
-    linkText: 5 篇
+    linkText: 16 篇
 ---
 
 <div class="home-recent">
 
 ## 最近更新
 
-- [敏捷篇第四課:少了 Planning 和 Retro 的團隊](/posts/agile/04-planning-and-retro) — 只有日常消化,沒有衝刺感。Demo 之後多留 30 分鐘。
-- [制度篇第四課:新人的前十天](/posts/systems/04-first-ten-days) — 第一天考打字。要求是具體的,進度是看得見的。
-- [制度篇第三課:值班排班,公平要看得見](/posts/systems/03-on-call-rotation) — 公平不是一種感覺,是一份看得見的紀錄。
-- [敏捷篇第二課:看板,不用再問誰在做什麼](/posts/agile/02-kanban) — 主管的工作之一,是讓自己不需要問。
+- [主管篇第十五課:承認撐不住,也是一種調度](/posts/manager/15-admitting-you-cant) — 主管的工作是讓事情做成,不是證明自己撐得住。
+- [主管篇第七課:你獎勵什麼,就會得到什麼](/posts/manager/07-you-get-what-you-reward) — 制度不會改變人的本性,但會決定本性往哪個方向用。
+- [主管篇第十課:背叛和不會,不是同一件事](/posts/manager/10-betrayal-vs-inability) — 對做不好的人不放棄,對背叛的人不留情。
+- [制度篇第七課:規則每半年檢討一次](/posts/systems/07-review-every-six-months) — 規則要有保存期限,爭議要有終點。
 
 </div>

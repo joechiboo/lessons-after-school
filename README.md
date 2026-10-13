@@ -23,6 +23,8 @@
 3. [第三課：值班排班，公平要看得見](posts/systems/03-on-call-rotation.md)
 4. [第四課：新人的前十天](posts/systems/04-first-ten-days.md)
 5. [第五課：金額愈大，要附的說明愈多](posts/systems/05-petty-cash.md)
+6. [第六課：每月一次內部分享，輪流主講](posts/systems/06-monthly-sharing.md)
+7. [第七課：規則每半年檢討一次](posts/systems/07-review-every-six-months.md)
 
 ### 敏捷篇
 
@@ -43,6 +45,17 @@
 2. [第二課：先給，再要求](posts/manager/02-give-first-then-ask.md)
 3. [第三課：不用自己變強，把強的人放對位置](posts/manager/03-put-people-in-the-right-place.md)
 4. [第四課：政治手腕，就是跨部門溝通](posts/manager/04-politics-is-cross-team-communication.md)
+5. [第五課：主管的工作是移除障礙，不是做更多](posts/manager/05-remove-obstacles.md)
+6. [第六課：給團隊一個節奏](posts/manager/06-give-the-team-a-rhythm.md)
+7. [第七課：你獎勵什麼，就會得到什麼](posts/manager/07-you-get-what-you-reward.md)
+8. [第八課：準時和結論，是主管的責任](posts/manager/08-punctuality-and-conclusions.md)
+9. [第九課：有事直接找當事人](posts/manager/09-go-to-the-person-directly.md)
+10. [第十課：背叛和不會，不是同一件事](posts/manager/10-betrayal-vs-inability.md)
+11. [第十一課：罰行為，不罰人；對功臣，話要親口說](posts/manager/11-punish-the-act-not-the-person.md)
+12. [第十二課：帶後段班，給資源、給期待、有教練](posts/manager/12-coaching-the-bottom.md)
+13. [第十三課：關心和控制的界線](posts/manager/13-care-vs-control.md)
+14. [第十四課：用數據管理，不靠直覺](posts/manager/14-manage-by-data.md)
+15. [第十五課：承認撐不住，也是一種調度](posts/manager/15-admitting-you-cant.md)
 
 番外：[先想下一步](posts/manager/ex01-think-one-step-ahead.md)
 

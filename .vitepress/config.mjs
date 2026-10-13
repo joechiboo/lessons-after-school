@@ -38,7 +38,18 @@ export default defineConfig({
             { text: '第一課:交辦清單,還是交出所有權', link: '/posts/manager/01-hand-over-ownership' },
             { text: '第二課:先給,再要求', link: '/posts/manager/02-give-first-then-ask' },
             { text: '第三課:不用自己變強,把強的人放對位置', link: '/posts/manager/03-put-people-in-the-right-place' },
-            { text: '第四課:政治手腕,就是跨部門溝通', link: '/posts/manager/04-politics-is-cross-team-communication' }
+            { text: '第四課:政治手腕,就是跨部門溝通', link: '/posts/manager/04-politics-is-cross-team-communication' },
+            { text: '第五課:主管的工作是移除障礙,不是做更多', link: '/posts/manager/05-remove-obstacles' },
+            { text: '第六課:給團隊一個節奏', link: '/posts/manager/06-give-the-team-a-rhythm' },
+            { text: '第七課:你獎勵什麼,就會得到什麼', link: '/posts/manager/07-you-get-what-you-reward' },
+            { text: '第八課:準時和結論,是主管的責任', link: '/posts/manager/08-punctuality-and-conclusions' },
+            { text: '第九課:有事直接找當事人', link: '/posts/manager/09-go-to-the-person-directly' },
+            { text: '第十課:背叛和不會,不是同一件事', link: '/posts/manager/10-betrayal-vs-inability' },
+            { text: '第十一課:罰行為,不罰人;對功臣,話要親口說', link: '/posts/manager/11-punish-the-act-not-the-person' },
+            { text: '第十二課:帶後段班,給資源、給期待、有教練', link: '/posts/manager/12-coaching-the-bottom' },
+            { text: '第十三課:關心和控制的界線', link: '/posts/manager/13-care-vs-control' },
+            { text: '第十四課:用數據管理,不靠直覺', link: '/posts/manager/14-manage-by-data' },
+            { text: '第十五課:承認撐不住,也是一種調度', link: '/posts/manager/15-admitting-you-cant' }
           ]
         },
         {
@@ -57,7 +68,9 @@ export default defineConfig({
             { text: '第二課:彈性上班,但有核心時段', link: '/posts/systems/02-flexible-hours' },
             { text: '第三課:值班排班,公平要看得見', link: '/posts/systems/03-on-call-rotation' },
             { text: '第四課:新人的前十天', link: '/posts/systems/04-first-ten-days' },
-            { text: '第五課:金額愈大,要附的說明愈多', link: '/posts/systems/05-petty-cash' }
+            { text: '第五課:金額愈大,要附的說明愈多', link: '/posts/systems/05-petty-cash' },
+            { text: '第六課:每月一次內部分享,輪流主講', link: '/posts/systems/06-monthly-sharing' },
+            { text: '第七課:規則每半年檢討一次', link: '/posts/systems/07-review-every-six-months' }
           ]
         }
       ],
