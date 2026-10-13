@@ -1,0 +1,20 @@
+/* 首頁「最近更新」區塊:外層 .vp-doc 已有左右邊距,這裡只留上下 */
+.VPHome .home-recent {
+  padding: 40px 0 0;
+}
+.VPHome .home-recent h2 {
+  border-top: none;
+  margin: 0 0 8px;
+  padding: 0;
+  font-size: 20px;
+}
+.VPHome .home-recent ul { padding-left: 0; margin: 0; list-style: none; }
+.VPHome .home-recent li {
+  margin: 0;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--vp-c-divider);
+  line-height: 1.6;
+}
+.VPHome .home-recent li:last-child { border-bottom: none; }
+.VPHome .home-recent li a { font-weight: 600; text-decoration: none; }
+.VPHome .home-recent li a:hover { text-decoration: underline; }

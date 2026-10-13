@@ -15,7 +15,7 @@ export default defineConfig({
       { text: '主管篇', link: '/posts/manager/', activeMatch: '/posts/manager/' },
       { text: '制度篇', link: '/posts/systems/', activeMatch: '/posts/systems/' },
       { text: '敏捷篇', link: '/posts/agile/', activeMatch: '/posts/agile/' },
-      { text: 'GitHub', link: 'https://github.com/joechiboo/lessons-after-school' }
+      { text: '關於', link: '/about' }
     ],
 
     sidebar: {

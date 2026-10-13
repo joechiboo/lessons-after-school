@@ -52,9 +52,14 @@
 ## 目錄結構
 
 ```
+index.md              首頁:四個系列卡片 + 最近更新(新文章記得補一行)
+about.md              關於這個系列
 posts/
-├── basics/     出社會篇
-├── manager/    主管篇
-├── systems/    制度篇
-└── agile/      敏捷篇
+├── basics/           出社會篇
+├── manager/          主管篇
+├── systems/          制度篇
+└── agile/            敏捷篇
+.vitepress/
+├── config.mjs        導覽列、側欄(新文章記得加側欄)
+└── theme/custom.css  首頁「最近更新」樣式
 ```
