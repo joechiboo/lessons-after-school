@@ -27,18 +27,18 @@ features:
     link: /posts/agile/
     linkText: 5 篇
   - title: 主管篇
-    details: 做主管之後才發現要學的事。授權、節奏、獎勵、溝通、帶人、放手、數據、撐不住,十五課加一篇番外。
+    details: 做主管之後才發現要學的事。授權、節奏、獎勵、溝通、帶人、放手、數據、撐不住,十五課加兩篇番外。
     link: /posts/manager/
-    linkText: 16 篇
+    linkText: 17 篇
 ---
 
 <div class="home-recent">
 
 ## 最近更新
 
+- [主管篇番外:黃葉和黑葉](/posts/manager/ex02-yellow-and-black-leaves) — 帶團隊像照顧一株植物。水太少會渴,太多會爛。黃葉先看根,黑葉早點剪。
 - [主管篇第十五課:承認撐不住,也是一種調度](/posts/manager/15-admitting-you-cant) — 主管的工作是讓事情做成,不是證明自己撐得住。
 - [主管篇第七課:你獎勵什麼,就會得到什麼](/posts/manager/07-you-get-what-you-reward) — 制度不會改變人的本性,但會決定本性往哪個方向用。
 - [主管篇第十課:背叛和不會,不是同一件事](/posts/manager/10-betrayal-vs-inability) — 對做不好的人不放棄,對背叛的人不留情。
-- [制度篇第七課:規則每半年檢討一次](/posts/systems/07-review-every-six-months) — 規則要有保存期限,爭議要有終點。
 
 </div>

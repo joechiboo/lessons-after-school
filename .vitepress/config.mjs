@@ -55,7 +55,8 @@ export default defineConfig({
         {
           text: '番外',
           items: [
-            { text: '先想下一步', link: '/posts/manager/ex01-think-one-step-ahead' }
+            { text: '先想下一步', link: '/posts/manager/ex01-think-one-step-ahead' },
+            { text: '黃葉和黑葉', link: '/posts/manager/ex02-yellow-and-black-leaves' }
           ]
         }
       ],

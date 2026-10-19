@@ -57,7 +57,7 @@
 14. [第十四課：用數據管理，不靠直覺](posts/manager/14-manage-by-data.md)
 15. [第十五課：承認撐不住，也是一種調度](posts/manager/15-admitting-you-cant.md)
 
-番外：[先想下一步](posts/manager/ex01-think-one-step-ahead.md)
+番外：[先想下一步](posts/manager/ex01-think-one-step-ahead.md)、[黃葉和黑葉](posts/manager/ex02-yellow-and-black-leaves.md)
 
 規劃中的題目見 [posts/manager/index.md](posts/manager/index.md)。
 
